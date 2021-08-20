@@ -1,0 +1,20 @@
+.investor_hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-image: url("./../../assets/investor-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.investor_hero .heading {
+  color: #fff;
+  font-size: 88px;
+}
+
+.investor_hero .description {
+  color: #fff;
+  font-size: 24px;
+}
